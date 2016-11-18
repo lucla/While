@@ -1,0 +1,5 @@
+F:\VisualStudio\C#\01\While\While\bin\Debug\While.exe.config
+F:\VisualStudio\C#\01\While\While\bin\Debug\While.exe
+F:\VisualStudio\C#\01\While\While\bin\Debug\While.pdb
+F:\VisualStudio\C#\01\While\While\obj\Debug\While.exe
+F:\VisualStudio\C#\01\While\While\obj\Debug\While.pdb
